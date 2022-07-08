@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Item
+  - UI
+  - Scroll View
   layers:
   - Default
   - TransparentFX
@@ -40,4 +43,16 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Doll
+    uniqueID: 2290997475
+    locked: 0
+  - name: Clothes
+    uniqueID: 355481263
+    locked: 0
+  - name: Items
+    uniqueID: 3376045123
+    locked: 0
+  - name: UI
+    uniqueID: 784886741
     locked: 0
