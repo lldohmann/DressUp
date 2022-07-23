@@ -56,3 +56,6 @@ TagManager:
   - name: Items
     uniqueID: 3376045123
     locked: 0
+  - name: Options
+    uniqueID: 1034802353
+    locked: 0
